@@ -1,0 +1,5 @@
+Resources:
+  DemoBucket:
+   Type: AWS::S3::Bucket
+   Properties:
+    BucketName: jenkins-example-bucket
